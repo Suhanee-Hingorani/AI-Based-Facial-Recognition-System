@@ -25,8 +25,11 @@ We will be using be using computer vison libraries such as OpenCV and algorithms
 We will need to process pictures given by the user using inbuilt library functions such as OpenCV and compare these faces with faces the user chooses to display and identify them
 
 1.5 Flowchart
+
 ![image](https://github.com/CodingNinja678/AI-Based-Facial-Recognition-System/assets/90537380/152276e5-edc6-429a-a9ac-bfd9d4399ce3)
 
 1.6 Output
+
 ![image](https://github.com/CodingNinja678/AI-Based-Facial-Recognition-System/assets/90537380/33474ba8-67c4-4a09-8347-1f458c746f80)
+
 ![image](https://github.com/CodingNinja678/AI-Based-Facial-Recognition-System/assets/90537380/8062eba1-8c3f-41da-9384-e57c17d644b3)
